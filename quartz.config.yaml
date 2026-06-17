@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: fa-IR
-  baseUrl: library.fardm.ir
+  baseUrl: fardm.github.io/library-quartz/
   ignorePatterns:
     - private
     - templates
