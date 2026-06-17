@@ -1,0 +1,35 @@
+formulas:
+  starRating: |-
+    if(rating == 5, "★★★★★",
+    if(rating == 4.5, "★★★★⯨",
+    if(rating == 4, "★★★★",
+    if(rating == 3.5, "★★★⯨",
+    if(rating == 3, "★★★",
+    if(rating == 2.5, "★★⯨",
+    if(rating == 2, "★★",
+    if(rating == 1.5, "★⯨",
+    if(rating == 1, "★",
+    ""
+    )))))))))
+views:
+  - type: cards
+    name: 📚 Books
+    filters:
+      and:
+        - file.hasTag("Book")
+        - date <= "2026-03-20"
+        - date >= "2025-03-21"
+    order:
+      - file.name
+      - badge
+      - pages
+      - formula.starRating
+    sort:
+      - property: date
+        direction: DESC
+      - property: rating
+        direction: DESC
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.7
+    imageFit: ""

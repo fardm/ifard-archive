@@ -269,8 +269,6 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
-  - source: github:fardm/quartz-clickable-images
-    enabled: true
 layout:
   groups:
     toolbar:

@@ -13,23 +13,11 @@ formulas:
     )))))))))
 views:
   - type: cards
-    name: All
-    order:
-      - file.name
-      - badge
-      - formula.starRating
-    sort:
-      - property: date
-        direction: DESC
-    image: note.cover
-    cardSize: 170
-    imageAspectRatio: 1.5
-    imageFit: ""
-  - type: cards
     name: 🎬 Movie
     filters:
       and:
         - file.hasTag("Movie")
+        - file.name != "New Movie"
     groupBy:
       property: type
       direction: ASC
@@ -41,8 +29,8 @@ views:
       - property: date
         direction: DESC
     image: note.cover
-    cardSize: 170
-    imageAspectRatio: 1.5
+    cardSize: 200
+    imageAspectRatio: 0.65
     imageFit: ""
   - type: cards
     name: 📚 Books
@@ -60,8 +48,8 @@ views:
       - property: rating
         direction: DESC
     image: note.cover
-    cardSize: 180
-    imageAspectRatio: 1.5
+    cardSize: 200
+    imageAspectRatio: 0.7
     imageFit: ""
   - type: cards
     name: 🎙️ Podcast

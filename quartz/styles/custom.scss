@@ -325,3 +325,15 @@ body:is(
         grid-template-columns: 1fr !important;
     }
 }
+
+
+
+//____________________________________________________________________
+
+#quartz-body:has(div.minimal) .bases-page {
+    margin-top: 4rem;
+}
+
+.bases-card {
+    direction: ltr;
+}
