@@ -1,0 +1,29 @@
+---
+type: film
+scoreImdb: '7.7'
+length: 103 min
+director: Farzad Motamen
+country: Iran
+genre: 'Drama, Romance'
+year: '2003'
+rating: 3
+date: 2026-02-27T00:00:00.000Z
+cover: '[[white-nights.webp]]'
+tags:
+  - Movie
+badge:
+  - ☕تلخ
+cover_self: 'https://ifard.ir/assets/covers/movies/white-nights.webp'
+cover_source: >-
+  https://m.media-amazon.com/images/M/MV5BNTI0ZTc3MjAtYzYwMy00Y2M4LTlmNjktNjg5OWJiY2U3MWUzXkEyXkFqcGc@._V1_.jpg
+---
+
+
+# حاشیه
+
+بد نبود ولی با دیالوگ ها حال نکردم یه ذره مصنوعی بود. یه شعر برام بخون... درسته هنوز اونقدر توی فاز ادبیات و شعر نیستم ولی این هم یه جور دستمالی کردن ادبیات بود که فازش رو برداشت بودند. ریتم کند اما قابل تحمل بود. بازی استاد رو دوست نداشتم. یه حالت غریبی داشت. 
+بازیگر کتابفروش رو بیشتر دوست داشتم. میخواستم بیشتر توی فیلم باشه. یه حالت مرموزی داشت. چهره اش خیلی خوب بود. چونه کشیده، عینک گرد، موی جوگندمی، پالتو.
+شهر خیلی آشنا بود. انگار سالاریه بود. شیب های تندی که توی کوچه پس کوچه های اونجاست. خونه های در حال ساخت و ساز.
+
+
+
