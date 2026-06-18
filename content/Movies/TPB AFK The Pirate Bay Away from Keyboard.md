@@ -10,7 +10,6 @@ cover: "[[tpb-afk-the-pirate-bay-away-from-keyboard.webp]]"
 tags:
   - Movie
 badge:
-cover_self: https://ifard.ir/assets/covers/movies/tpb-afk-the-pirate-bay-away-from-keyboard.webp
 cover_source: https://m.media-amazon.com/images/M/MV5BMjU4MzY4ODg0MV5BMl5BanBnXkFtZTcwNTE2MjY5OA@@._V1_SX300.jpg
 type: documentaries
 ---

@@ -1,20 +1,18 @@
 ---
 type: film
-scoreImdb: '8.1'
+scoreImdb: "8.1"
 length: 153 min
 country: United States
-genre: 'Crime, Drama, Mystery'
-year: '2013'
+genre: Crime, Drama, Mystery
+year: "2013"
 rating: 4
 date: 2024-02-23T00:00:00.000Z
-cover: '[[prisoners.webp]]'
+cover: "[[prisoners.webp]]"
 tags:
   - Movie
 badge:
-  - "\U0001F300مرموز"
-cover_self: 'https://ifard.ir/assets/covers/movies/prisoners.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX300.jpg
+  - 🌀مرموز
+cover_source: https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX300.jpg
 ---
 
 

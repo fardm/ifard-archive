@@ -14,7 +14,6 @@ tags:
   - Media
 aliases:
   - برنامه نویسان پابرهنه
-cover_self: https://ifard.ir/assets/covers/media/home-cooked.webp
 cover_source: https://i.ytimg.com/vi/qo5m92-9_QI/maxresdefault.jpg
 ---
 #   چکیده

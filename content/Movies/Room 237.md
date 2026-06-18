@@ -1,19 +1,17 @@
 ---
 type: documentaries
-scoreImdb: '6.2'
+scoreImdb: "6.2"
 length: 102 min
 country: United States
 genre: Documentary
-year: '2012'
-publisher: null
+year: "2012"
+publisher:
 rating: 3
 date: 2024-02-09T00:00:00.000Z
-cover: '[[room-237.webp]]'
+cover: "[[room-237.webp]]"
 tags:
   - Movie
-cover_self: 'https://ifard.ir/assets/covers/movies/room-237.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BMjgyZDE4YzQtN2QxNi00MTQ3LWFhZjEtYzZmZjM1YTdiNDhhXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SX300.jpg
+cover_source: https://m.media-amazon.com/images/M/MV5BMjgyZDE4YzQtN2QxNi00MTQ3LWFhZjEtYzZmZjM1YTdiNDhhXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SX300.jpg
 ---
 [[The Shining]]
 

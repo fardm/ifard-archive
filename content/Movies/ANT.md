@@ -10,7 +10,6 @@ date: 2019-10-26
 cover: "[[ant.webp]]"
 tags:
   - Movie
-cover_self: https://ifard.ir/assets/covers/movies/ant.webp
 cover_source:
 ---
 

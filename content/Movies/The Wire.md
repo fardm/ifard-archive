@@ -1,21 +1,19 @@
 ---
 type: series
-scoreImdb: '9.3'
+scoreImdb: "9.3"
 length: 59 min
 director: N/A
 country: United States
-genre: 'Crime, Drama, Thriller'
+genre: Crime, Drama, Thriller
 year: 2002–2008
 rating: 4
 date: 2026-03-06T00:00:00.000Z
-cover: '[[the-wire.webp]]'
+cover: "[[the-wire.webp]]"
 tags:
   - Movie
 badge:
-  - "\U0001F9E9سرگرم‌کننده"
-cover_self: 'https://ifard.ir/assets/covers/movies/the-wire.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BZWYyNmRhYjktNjBhNC00M2NhLWEzYmMtZDYwNmIyZTRiZWMzXkEyXkFqcGc@._V1_SX300.jpg
+  - 🧩سرگرم‌کننده
+cover_source: https://m.media-amazon.com/images/M/MV5BZWYyNmRhYjktNjBhNC00M2NhLWEzYmMtZDYwNmIyZTRiZWMzXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
 

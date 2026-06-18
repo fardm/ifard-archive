@@ -10,7 +10,6 @@ cover: "[[the-art-of-letting-go-the-minimalists.webp]]"
 date: 2025-10-10
 tags:
   - Media
-cover_self: https://ifard.ir/assets/covers/media/the-art-of-letting-go-the-minimalists.webp
 cover_source: https://i.ytimg.com/vi/w7rewjFNiys/maxresdefault.jpg
 ---
 

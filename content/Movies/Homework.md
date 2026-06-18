@@ -11,7 +11,6 @@ tags:
   - Movie
 badge:
   - ☕تلخ
-cover_self: https://ifard.ir/assets/covers/movies/homework.webp
 cover_source: https://m.media-amazon.com/images/M/MV5BYWNjOGFlNmUtYmY2Yy00ZDdiLWE4ZmItMmE0YTQ3MTA3NDlkXkEyXkFqcGc@._V1_SX300.jpg
 type: documentaries
 ---

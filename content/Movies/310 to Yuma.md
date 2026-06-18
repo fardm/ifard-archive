@@ -1,20 +1,18 @@
 ---
 type: film
-scoreImdb: '7.6'
+scoreImdb: "7.6"
 length: 122 min
 country: United States
-genre: 'Action, Crime, Drama'
-year: '2007'
+genre: Action, Crime, Drama
+year: "2007"
 rating: 5
 date: 2024-09-14T00:00:00.000Z
-cover: '[[310-to-yuma.webp]]'
+cover: "[[310-to-yuma.webp]]"
 tags:
   - Movie
 badge:
-  - "\U0001F9E9سرگرم‌کننده"
-cover_self: 'https://ifard.ir/assets/covers/movies/310-to-yuma.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_SX300.jpg
+  - 🧩سرگرم‌کننده
+cover_source: https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_SX300.jpg
 ---
 
 

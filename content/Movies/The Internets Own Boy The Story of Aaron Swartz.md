@@ -10,7 +10,6 @@ cover: "[[the-internets-own-boy-the-story-of-aaron-swartz.webp]]"
 tags:
   - Movie
 badge:
-cover_self: https://ifard.ir/assets/covers/movies/the-internets-own-boy-the-story-of-aaron-swartz.webp
 cover_source: https://m.media-amazon.com/images/M/MV5BMjgwOTgwNjQ5MV5BMl5BanBnXkFtZTgwMzk1NTQ2MTE@._V1_SX300.jpg
 type: documentaries
 ---

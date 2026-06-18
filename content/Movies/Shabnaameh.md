@@ -12,7 +12,6 @@ tags:
 aliases:
   - شب نامه
 publisher: سفیر فیلم
-cover_self: https://ifard.ir/assets/covers/movies/shabnaameh.webp
 cover_source: https://m.media-amazon.com/images/M/MV5BMzQ5MzY5MTUtZTgzNy00ZTNhLTkyMzUtMDZhOGUyMGFhYjZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
 type: documentaries
 ---

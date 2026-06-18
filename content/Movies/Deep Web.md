@@ -10,7 +10,6 @@ date: 2025-01-26T00:00:00.000Z
 cover: "[[deep-web.webp]]"
 tags:
   - Movie
-cover_self: https://ifard.ir/assets/covers/movies/deep-web.webp
 cover_source: https://m.media-amazon.com/images/M/MV5BMjQwMTI0NzcyOF5BMl5BanBnXkFtZTgwNzkzMTg0NDE@._V1_SX300.jpg
 ---
 

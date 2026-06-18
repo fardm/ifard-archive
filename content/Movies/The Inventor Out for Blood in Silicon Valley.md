@@ -10,7 +10,6 @@ date: 2025-04-26T00:00:00.000Z
 cover: "[[the-inventor-out-for-blood-in-silicon-valley.webp]]"
 tags:
   - Movie
-cover_self: https://ifard.ir/assets/covers/movies/the-inventor-out-for-blood-in-silicon-valley.webp
 cover_source: https://m.media-amazon.com/images/M/MV5BYmM2ZjAxZWYtOTIwYS00NDgyLThlYjctZTdlOTkxOTExZjliXkEyXkFqcGc@._V1_SX300.jpg
 ---
 

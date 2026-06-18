@@ -10,7 +10,6 @@ cover: "[[minimalism-a-documentary-about-the-important-things.webp]]"
 tags:
   - Movie
 badge:
-cover_self: https://ifard.ir/assets/covers/movies/minimalism-a-documentary-about-the-important-things.webp
 cover_source: https://m.media-amazon.com/images/M/MV5BZWQ1ZDljNDAtYWI4ZC00NWVkLTgwOTctZmM4MDc5MDJiMjU5XkEyXkFqcGc@._V1_SX300.jpg
 type: documentaries
 ---

@@ -1,25 +1,22 @@
 ---
 type: short
-scoreImdb: '8.0'
+scoreImdb: "8.0"
 length: 20 min
 country: Iran
-genre: 'Animation, Short, Drama'
-year: '2023'
+genre: Animation, Short, Drama
+year: "2023"
 rating: 5
 date: 2025-03-03T00:00:00.000Z
-cover: '[[in-the-shadow-of-the-cypress.webp]]'
+cover: "[[in-the-shadow-of-the-cypress.webp]]"
 tags:
   - Movie
 aliases:
   - در سایه سرو
 badge:
   - ☕تلخ
-  - "\U0001F9F2گیرا"
-source: >-
-  https://www.imdb.com/title/tt28768883/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_In%20the%20Shadow%20of%20the%20Cypress
-cover_self: 'https://ifard.ir/assets/covers/movies/in-the-shadow-of-the-cypress.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BOWQ3MGYwZDItM2E4YS00NmU2LTgzZGItNzhkZDEzNThiNGRjXkEyXkFqcGc@._V1_.jpg
+  - 🧲گیرا
+source: https://www.imdb.com/title/tt28768883/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_In%20the%20Shadow%20of%20the%20Cypress
+cover_source: https://m.media-amazon.com/images/M/MV5BOWQ3MGYwZDItM2E4YS00NmU2LTgzZGItNzhkZDEzNThiNGRjXkEyXkFqcGc@._V1_.jpg
 ---
 	
 

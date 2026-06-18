@@ -1,20 +1,18 @@
 ---
 type: series
-scoreImdb: '8.1'
+scoreImdb: "8.1"
 length: 4 hour
 country: United Kingdom
-genre: 'Crime, Drama, Thriller'
-year: '2025'
+genre: Crime, Drama, Thriller
+year: "2025"
 rating: 4.5
 date: 2025-11-12T00:00:00.000Z
-cover: '[[adolescence.webp]]'
+cover: "[[adolescence.webp]]"
 tags:
   - Movie
 badge:
-  - "\U0001F9F2گیرا"
-cover_self: 'https://ifard.ir/assets/covers/movies/adolescence.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BNGY1YjBiNzMtYWZhNC00OWViLWE0MzItNjc4YzczOGNiM2I0XkEyXkFqcGc@._V1_SX300.jpg
+  - 🧲گیرا
+cover_source: https://m.media-amazon.com/images/M/MV5BNGY1YjBiNzMtYWZhNC00OWViLWE0MzItNjc4YzczOGNiM2I0XkEyXkFqcGc@._V1_SX300.jpg
 ---
 
 سریال خوبی بود. سکانس پلان بودنش توجه ام رو جلب کرده بود. خیلی خوب بود. آدم رو به فیلم نزدیک تر میکنه. انگار واقعیه. خودش اونجا هستی. مثل یک مستند اما نه با حرفه ای و هنرمندانه. به نظرم وقتی فیلم کات میخوره واقعی بودنش رو از دست میده. 

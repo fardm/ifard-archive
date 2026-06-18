@@ -1,16 +1,15 @@
 ---
-author: null
+author:
 length: 11 hour 30 min
 rating: 4
-status: "\U0001F7E9 Done"
+status: 🟩 Done
 date: 2024-09-03T00:00:00.000Z
 link:
-  - 'https://roocket.ir/series/learn-css'
-cover: '[[aamwzsh-css-rakt.webp]]'
+  - https://roocket.ir/series/learn-css
+cover: "[[aamwzsh-css-rakt.webp]]"
 tags:
   - Course
-cover_self: 'https://ifard.ir/assets/covers/courses/aamwzsh-css-rakt.webp'
-cover_source: 'https://s32.picofile.com/file/8478837334/css.jpg'
+cover_source: https://s32.picofile.com/file/8478837334/css.jpg
 ---
 
 # خلاصه

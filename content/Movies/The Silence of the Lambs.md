@@ -1,22 +1,20 @@
 ---
 type: film
-scoreImdb: '8.6'
+scoreImdb: "8.6"
 length: 118 min
 country: United States
-genre: 'Crime, Drama, Thriller'
-year: '1991'
+genre: Crime, Drama, Thriller
+year: "1991"
 rating: 5
 date: 2024-05-03T00:00:00.000Z
-cover: '[[the-silence-of-the-lambs.webp]]'
+cover: "[[the-silence-of-the-lambs.webp]]"
 tags:
   - Movie
 aliases:
   - سکوت بره‌ها
 badge:
-  - "\U0001F9F2گیرا"
-cover_self: 'https://ifard.ir/assets/covers/movies/the-silence-of-the-lambs.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+  - 🧲گیرا
+cover_source: https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
 ---
 
 [این ویدئو](https://www.aparat.com/v/h71Sx) تحلیل خوبی بود.

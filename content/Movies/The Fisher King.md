@@ -1,21 +1,19 @@
 ---
 type: film
-scoreImdb: '7.5'
+scoreImdb: "7.5"
 length: 137 min
 country: United States
-genre: 'Comedy, Drama, Fantasy'
-year: '1991'
+genre: Comedy, Drama, Fantasy
+year: "1991"
 rating: 5
 date: 2026-01-20T00:00:00.000Z
-cover: '[[the-fisher-king.webp]]'
+cover: "[[the-fisher-king.webp]]"
 tags:
   - Movie
 badge:
-  - "\U0001F60Aدلنشین"
-  - "\U0001F9F2گیرا"
-cover_self: 'https://ifard.ir/assets/covers/movies/the-fisher-king.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BZTg2OGU4MmMtZThkZi00YjJjLTkwMjItMDMwYWE4NTA3NzRlXkEyXkFqcGc@._V1_SX300.jpg
+  - 😊دلنشین
+  - 🧲گیرا
+cover_source: https://m.media-amazon.com/images/M/MV5BZTg2OGU4MmMtZThkZi00YjJjLTkwMjItMDMwYWE4NTA3NzRlXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
 بازی رابین ویلیامز فوق العاده بود. واقعا انگار که دیوونه بود. 

@@ -6,19 +6,16 @@ author:
   - Maggie Appleton
 length: 64 min
 rating: 3
-status: "\U0001F7E9 Done"
+status: 🟩 Done
 date: 2024-08-14T00:00:00.000Z
 link:
-  - 'https://youtu.be/Iq4lJZIZa_g?si=XYj-ONJ8tEGSgGNS'
-  - 'https://sketchnotearmy.com/blog/2024/3/5/maggie-appleton'
-cover: '[[maggie-appletons-journey-to-design.webp]]'
+  - https://youtu.be/Iq4lJZIZa_g?si=XYj-ONJ8tEGSgGNS
+  - https://sketchnotearmy.com/blog/2024/3/5/maggie-appleton
+cover: "[[maggie-appletons-journey-to-design.webp]]"
 tags:
   - Podcast
-media_link: 'https://www.youtube.com/watch?v=Iq4lJZIZa_g'
-cover_self: >-
-  https://ifard.ir/assets/covers/podcasts/maggie-appletons-journey-to-design.webp
-cover_source: >-
-  https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/d4/83/59/d4835940-003d-502a-cf95-b1fe1c5c0e24/mza_4199942390305222365.jpg/500x500bb.webp
+media_link: https://www.youtube.com/watch?v=Iq4lJZIZa_g
+cover_source: https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/d4/83/59/d4835940-003d-502a-cf95-b1fe1c5c0e24/mza_4199942390305222365.jpg/500x500bb.webp
 ---
 # نشانه
 

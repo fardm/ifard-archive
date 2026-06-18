@@ -10,7 +10,6 @@ cover: "[[zero-days.webp]]"
 tags:
   - Movie
 badge:
-cover_self: https://ifard.ir/assets/covers/movies/zero-days.webp
 cover_source: https://m.media-amazon.com/images/M/MV5BMTUyODE1NTIzOF5BMl5BanBnXkFtZTgwMjA5NjY5ODE@._V1_SX300.jpg
 type: documentaries
 ---

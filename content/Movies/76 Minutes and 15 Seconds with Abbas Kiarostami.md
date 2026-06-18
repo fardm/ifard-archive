@@ -11,7 +11,6 @@ cover: "[[76-minutes-and-15-seconds-with-abbas-kiarostami.webp]]"
 tags:
   - Movie
 badge:
-cover_self: https://ifard.ir/assets/covers/movies/76-minutes-and-15-seconds-with-abbas-kiarostami.webp
 cover_source: https://m.media-amazon.com/images/M/MV5BM2ZiNTA2ZGQtODI2ZS00ZjYyLTg2ODItNzUzMWUwZGYyN2Q5XkEyXkFqcGc@._V1_SX300.jpg
 ---
 

@@ -9,4 +9,4 @@ created: 2025-01-01
 draft: false
 ---
 
-[[My-Data.base]]
+[[data.base]]

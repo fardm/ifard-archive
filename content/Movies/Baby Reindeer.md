@@ -1,19 +1,17 @@
 ---
 type: series
-scoreImdb: '8.2'
+scoreImdb: "8.2"
 length: 240 min
 country: United Kingdom
-genre: 'Biography, Drama'
-year: '2024'
+genre: Biography, Drama
+year: "2024"
 rating: 3
 date: 2024-04-28T00:00:00.000Z
-cover: '[[baby-reindeer.webp]]'
+cover: "[[baby-reindeer.webp]]"
 tags:
   - Movie
-source: 'https://www.imdb.com/title/tt13649112/'
-cover_self: 'https://ifard.ir/assets/covers/movies/baby-reindeer.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BNzlmY2E1OTUtMjEzZi00Y2YxLWI5NmMtZmZhOWZkMjIzMDJiXkEyXkFqcGc@._V1_.jpg
+source: https://www.imdb.com/title/tt13649112/
+cover_source: https://m.media-amazon.com/images/M/MV5BNzlmY2E1OTUtMjEzZi00Y2YxLWI5NmMtZmZhOWZkMjIzMDJiXkEyXkFqcGc@._V1_.jpg
 ---
 اولین بار [[شاهین کلانتری]] این فیلم رو در دوره [[طنز بانک]]2 معرفی کرد.
 

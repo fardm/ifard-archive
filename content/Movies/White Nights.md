@@ -1,21 +1,19 @@
 ---
 type: film
-scoreImdb: '7.7'
+scoreImdb: "7.7"
 length: 103 min
 director: Farzad Motamen
 country: Iran
-genre: 'Drama, Romance'
-year: '2003'
+genre: Drama, Romance
+year: "2003"
 rating: 3
 date: 2026-02-27T00:00:00.000Z
-cover: '[[white-nights.webp]]'
+cover: "[[white-nights.webp]]"
 tags:
   - Movie
 badge:
   - ☕تلخ
-cover_self: 'https://ifard.ir/assets/covers/movies/white-nights.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BNTI0ZTc3MjAtYzYwMy00Y2M4LTlmNjktNjg5OWJiY2U3MWUzXkEyXkFqcGc@._V1_.jpg
+cover_source: https://m.media-amazon.com/images/M/MV5BNTI0ZTc3MjAtYzYwMy00Y2M4LTlmNjktNjg5OWJiY2U3MWUzXkEyXkFqcGc@._V1_.jpg
 ---
 
 

@@ -1,22 +1,20 @@
 ---
 type: documentaries
-scoreImdb: '7.8'
+scoreImdb: "7.8"
 length: 90 min
 country: United States
-genre: 'Documentary, Sport'
-year: '2017'
+genre: Documentary, Sport
+year: "2017"
 publisher: Netflix
 rating: 4
 date: 2024-01-31T00:00:00.000Z
-cover: '[[alphago.webp]]'
+cover: "[[alphago.webp]]"
 tags:
   - Movie
 aliases:
   - آلفاگو
-source: 'https://www.imdb.com/title/tt6700846/'
-cover_self: 'https://ifard.ir/assets/covers/movies/alphago.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BMDk2Mjk5ZjUtMDhhYS00NTRmLWFlMWItNDBlOWQwOGZkNTgzXkEyXkFqcGc@._V1_.jpg
+source: https://www.imdb.com/title/tt6700846/
+cover_source: https://m.media-amazon.com/images/M/MV5BMDk2Mjk5ZjUtMDhhYS00NTRmLWFlMWItNDBlOWQwOGZkNTgzXkEyXkFqcGc@._V1_.jpg
 ---
 
 https://www.youtube.com/watch?v=WXuK6gekU1Y

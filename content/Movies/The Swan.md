@@ -1,21 +1,19 @@
 ---
 type: short
-scoreImdb: '6.7'
+scoreImdb: "6.7"
 length: 17 min
 director: Wes Anderson
 country: United States
-genre: 'Short, Comedy, Drama'
-year: '2023'
+genre: Short, Comedy, Drama
+year: "2023"
 rating: 2.5
 date: 2026-05-06T00:00:00.000Z
-cover: '[[the-swan.webp]]'
+cover: "[[the-swan.webp]]"
 tags:
   - Movie
 badge:
-  - "\U0001F9E9سرگرم‌کننده"
-cover_self: 'https://ifard.ir/assets/covers/movies/the-swan.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BZWFiZDg2OGQtMzBkZS00NDIzLTkyOWEtZjg0NTYzMjQ0OWI4XkEyXkFqcGc@._V1_SX300.jpg
+  - 🧩سرگرم‌کننده
+cover_source: https://m.media-amazon.com/images/M/MV5BZWFiZDg2OGQtMzBkZS00NDIzLTkyOWEtZjg0NTYzMjQ0OWI4XkEyXkFqcGc@._V1_SX300.jpg
 ---
 
 

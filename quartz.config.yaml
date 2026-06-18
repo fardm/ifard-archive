@@ -132,8 +132,8 @@ plugins:
   - source: github:quartz-community/content-index
     enabled: true
     options:
-      enableSiteMap: true
-      enableRSS: true
+      enableSiteMap: false
+      enableRSS: false
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
@@ -247,11 +247,9 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
-      includeAll: false
+      includeAll: true
       includedProperties:
         - status
-        - created
-        - modified
       excludedProperties: []
       hidePropertiesView: true
       delimiters: ---

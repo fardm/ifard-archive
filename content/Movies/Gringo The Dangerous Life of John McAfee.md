@@ -10,7 +10,6 @@ cover: "[[gringo-the-dangerous-life-of-john-mcafee.webp]]"
 tags:
   - Movie
 badge:
-cover_self: https://ifard.ir/assets/covers/movies/gringo-the-dangerous-life-of-john-mcafee.webp
 cover_source: https://m.media-amazon.com/images/M/MV5BZTFlNTgzYTItMmJlMi00NWZiLTkwZTEtYjAxOGNlY2VmODJmXkEyXkFqcGc@._V1_SX300.jpg
 type: documentaries
 ---

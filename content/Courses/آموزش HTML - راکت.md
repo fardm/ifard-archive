@@ -1,17 +1,15 @@
 ---
-author: null
+author:
 length: 3 hour
 rating: 4
-status: "\U0001F7E9 Done"
+status: 🟩 Done
 date: 2025-09-15T00:00:00.000Z
 link:
-  - 'https://roocket.ir/series/learn-html'
-cover: '[[aamwzsh-html-rakt.webp]]'
+  - https://roocket.ir/series/learn-html
+cover: "[[aamwzsh-html-rakt.webp]]"
 tags:
   - Course
-cover_self: 'https://ifard.ir/assets/covers/courses/aamwzsh-html-rakt.webp'
-cover_source: >-
-  https://static.roocket.ir/images/cover/2023/12/1/oDeQGSRo3mEnYF3BAkI1koRxuKIqUFTKo0HIH2e1.jpg
+cover_source: https://static.roocket.ir/images/cover/2023/12/1/oDeQGSRo3mEnYF3BAkI1koRxuKIqUFTKo0HIH2e1.jpg
 ---
 
 استفاده از این ابتدای هر فایل:

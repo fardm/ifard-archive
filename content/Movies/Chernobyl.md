@@ -1,20 +1,18 @@
 ---
 type: series
-scoreImdb: '9.3'
+scoreImdb: "9.3"
 length: 330 min
-country: 'United States, United Kingdom'
-genre: 'Drama, History, Thriller'
-year: '2019'
+country: United States, United Kingdom
+genre: Drama, History, Thriller
+year: "2019"
 rating: 4.5
 date: 2025-03-12T00:00:00.000Z
-cover: '[[chernobyl.webp]]'
+cover: "[[chernobyl.webp]]"
 tags:
   - Movie
 badge:
   - ☕تلخ
-cover_self: 'https://ifard.ir/assets/covers/movies/chernobyl.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_.jpg
+cover_source: https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_.jpg
 ---
 
 

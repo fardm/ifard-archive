@@ -13,26 +13,6 @@ formulas:
     )))))))))
 views:
   - type: cards
-    name: 🎬 Movie
-    filters:
-      and:
-        - file.hasTag("Movie")
-        - file.name != "New Movie"
-    groupBy:
-      property: type
-      direction: ASC
-    order:
-      - file.name
-      - badge
-      - formula.starRating
-    sort:
-      - property: date
-        direction: DESC
-    image: note.cover
-    cardSize: 200
-    imageAspectRatio: 0.65
-    imageFit: ""
-  - type: cards
     name: 📚 Books
     filters:
       and:
@@ -84,8 +64,8 @@ views:
       - property: rating
         direction: DESC
     image: note.cover
-    cardSize: 200
-    imageAspectRatio: 0.6
+    cardSize: 230
+    imageAspectRatio: 1.5
     imageFit: ""
   - type: cards
     name: ✨ Media
@@ -102,22 +82,99 @@ views:
       - property: rating
         direction: DESC
     image: note.cover
-    cardSize: 180
-    imageAspectRatio: 0.5
+    cardSize: 230
+    imageAspectRatio: 1.5
     imageFit: ""
   - type: cards
-    name: 👤 Authors
+    name: 🎬 Movie
     filters:
       and:
-        - file.hasTag("Author")
+        - file.hasTag("Movie")
+        - file.name != "New Movie"
+        - type.contains("film")
+    groupBy:
+      property: type
+      direction: ASC
     order:
       - file.name
+      - badge
+      - formula.starRating
     sort:
       - property: date
         direction: DESC
-      - property: rating
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.65
+    imageFit: ""
+  - type: cards
+    name: 📺 Series
+    filters:
+      and:
+        - file.hasTag("Movie")
+        - file.name != "New Movie"
+        - type == "series"
+    order:
+      - file.name
+      - badge
+      - formula.starRating
+    sort:
+      - property: date
         direction: DESC
     image: note.cover
-    cardSize: 180
-    imageAspectRatio: 1
+    cardSize: 200
+    imageAspectRatio: 0.65
+    imageFit: ""
+  - type: cards
+    name: 🎈 Animation
+    filters:
+      and:
+        - file.hasTag("Movie")
+        - file.name != "New Movie"
+        - type == "animation"
+    order:
+      - file.name
+      - badge
+      - formula.starRating
+    sort:
+      - property: date
+        direction: DESC
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.65
+    imageFit: ""
+  - type: cards
+    name: 🎥 Documentaries
+    filters:
+      and:
+        - file.hasTag("Movie")
+        - file.name != "New Movie"
+        - type == "documentaries"
+    order:
+      - file.name
+      - badge
+      - formula.starRating
+    sort:
+      - property: date
+        direction: DESC
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.65
+    imageFit: ""
+  - type: cards
+    name: ⌛ Short
+    filters:
+      and:
+        - file.hasTag("Movie")
+        - file.name != "New Movie"
+        - type == "short"
+    order:
+      - file.name
+      - badge
+      - formula.starRating
+    sort:
+      - property: date
+        direction: DESC
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.65
     imageFit: ""

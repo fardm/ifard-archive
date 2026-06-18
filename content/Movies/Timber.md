@@ -1,19 +1,17 @@
 ---
 type: short
-scoreImdb: '6.9'
+scoreImdb: "6.9"
 length: 6 min
 country: Switzerland
-genre: 'Animation, Short, Action'
-year: '2014'
+genre: Animation, Short, Action
+year: "2014"
 rating: 5
 date: 2023-10-24T00:00:00.000Z
-cover: '[[timber.webp]]'
+cover: "[[timber.webp]]"
 tags:
   - Movie
-source: 'https://www.imdb.com/title/tt3966388/'
-cover_self: 'https://ifard.ir/assets/covers/movies/timber.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BMjJjNzliZjYtZTgwMi00NDA3LTlmMzMtNDhiZDFmNGM1NTM0XkEyXkFqcGc@._V1_.jpg
+source: https://www.imdb.com/title/tt3966388/
+cover_source: https://m.media-amazon.com/images/M/MV5BMjJjNzliZjYtZTgwMi00NDA3LTlmMzMtNDhiZDFmNGM1NTM0XkEyXkFqcGc@._V1_.jpg
 ---
 
 

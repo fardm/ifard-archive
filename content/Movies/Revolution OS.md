@@ -10,7 +10,6 @@ cover: "[[revolution-os.webp]]"
 tags:
   - Movie
 badge:
-cover_self: https://ifard.ir/assets/covers/movies/revolution-os.webp
 cover_source: https://m.media-amazon.com/images/M/MV5BMTgyNDU0NTIwNV5BMl5BanBnXkFtZTcwNzE4MDQyMQ@@._V1_SX300.jpg
 type: documentaries
 ---

@@ -1,22 +1,20 @@
 ---
 type: film
-scoreImdb: '7.2'
+scoreImdb: "7.2"
 length: 116 min
 director: Sebastián Borensztein
-country: 'Argentina, Spain'
-genre: 'Adventure, Comedy, Crime'
-year: '2019'
+country: Argentina, Spain
+genre: Adventure, Comedy, Crime
+year: "2019"
 rating: 4.5
 date: 2026-04-10T00:00:00.000Z
-cover: '[[heroic-losers.webp]]'
+cover: "[[heroic-losers.webp]]"
 tags:
   - Movie
 badge:
-  - "\U0001F60Aدلنشین"
-  - "\U0001F9F2گیرا"
-cover_self: 'https://ifard.ir/assets/covers/movies/heroic-losers.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BZjZkODA3MTktMjc0ZS00ZDc4LThlZGItMDkzZGExN2QxZGY3XkEyXkFqcGc@._V1_SX300.jpg
+  - 😊دلنشین
+  - 🧲گیرا
+cover_source: https://m.media-amazon.com/images/M/MV5BZjZkODA3MTktMjc0ZS00ZDc4LThlZGItMDkzZGExN2QxZGY3XkEyXkFqcGc@._V1_SX300.jpg
 ---
 
 

@@ -1,21 +1,19 @@
 ---
 type: film
-scoreImdb: '7.1'
+scoreImdb: "7.1"
 length: 107 min
 director: Wes Anderson
-country: 'United States, Germany, Sweden, France, United Kingdom'
-genre: 'Comedy, Drama, Romance'
-year: '2021'
+country: United States, Germany, Sweden, France, United Kingdom
+genre: Comedy, Drama, Romance
+year: "2021"
 rating: 4.5
 date: 2026-04-17T00:00:00.000Z
-cover: '[[the-french-dispatch.webp]]'
+cover: "[[the-french-dispatch.webp]]"
 tags:
   - Movie
 badge:
-  - "\U0001F9E9سرگرم‌کننده"
-cover_self: 'https://ifard.ir/assets/covers/movies/the-french-dispatch.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BMTU1YmNkZWYtYmExNC00YWE1LTk2NWEtMTQ2ODhmYTA5MmZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  - 🧩سرگرم‌کننده
+cover_source: https://m.media-amazon.com/images/M/MV5BMTU1YmNkZWYtYmExNC00YWE1LTk2NWEtMTQ2ODhmYTA5MmZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 ---
 
 

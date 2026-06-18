@@ -1,20 +1,18 @@
 ---
 type: film
-scoreImdb: '8.7'
+scoreImdb: "8.7"
 length: 169 min
-country: 'United States, United Kingdom, Canada'
-genre: 'Adventure, Drama, Sci-Fi'
-year: '2014'
+country: United States, United Kingdom, Canada
+genre: Adventure, Drama, Sci-Fi
+year: "2014"
 rating: 5
 date: 2021-08-07T00:00:00.000Z
-cover: '[[interstellar.webp]]'
+cover: "[[interstellar.webp]]"
 tags:
   - Movie
 badge:
-  - "\U0001F9F2گیرا"
-  - "\U0001F5DD️ماجراجویانه"
-cover_self: 'https://ifard.ir/assets/covers/movies/interstellar.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg
+  - 🧲گیرا
+  - 🗝️ماجراجویانه
+cover_source: https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg
 ---
 

@@ -1,18 +1,16 @@
 ---
-author: null
+author:
 length: 5 hour
 rating: 3
-status: "\U0001F7E9 Done"
+status: 🟩 Done
 link:
-  - 'https://motiondesign.school/courses/2d-character-design-magician/'
-  - >-
-    https://www.downloadpirate.com/motion-design-school-2d-character-design-magician-ana-perez-jordi-villaverde-free-download-b/
+  - https://motiondesign.school/courses/2d-character-design-magician/
+  - https://www.downloadpirate.com/motion-design-school-2d-character-design-magician-ana-perez-jordi-villaverde-free-download-b/
 date: 2023-10-27T00:00:00.000Z
-cover: '[[2d-character-design-magician.webp]]'
+cover: "[[2d-character-design-magician.webp]]"
 tags:
   - Course
-cover_self: 'https://ifard.ir/assets/covers/courses/2d-character-design-magician.webp'
-cover_source: 'https://s32.picofile.com/file/8478596342/2D_magic.jpg'
+cover_source: https://s32.picofile.com/file/8478596342/2D_magic.jpg
 ---
 
 ## جلسه اول

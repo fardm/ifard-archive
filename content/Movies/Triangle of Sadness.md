@@ -1,23 +1,19 @@
 ---
 type: film
-scoreImdb: '7.2'
+scoreImdb: "7.2"
 length: 147 min
 director: Ruben Östlund
-country: >-
-  United Kingdom, Sweden, Germany, Mexico, France, Turkey, Denmark, United
-  States, Switzerland, Greece
-genre: 'Comedy, Drama'
-year: '2022'
+country: United Kingdom, Sweden, Germany, Mexico, France, Turkey, Denmark, United States, Switzerland, Greece
+genre: Comedy, Drama
+year: "2022"
 rating: 2.5
 date: 2026-03-20T00:00:00.000Z
-cover: '[[triangle-of-sadness.webp]]'
+cover: "[[triangle-of-sadness.webp]]"
 tags:
   - Movie
 badge:
-  - "\U0001F5D1️چرت"
-cover_self: 'https://ifard.ir/assets/covers/movies/triangle-of-sadness.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BYTViNzUyNDUtZTg3Yy00OTY4LWEyMTYtMmUzYjE3ZmZjYzUwXkEyXkFqcGc@._V1_SX300.jpg
+  - 🗑️چرت
+cover_source: https://m.media-amazon.com/images/M/MV5BYTViNzUyNDUtZTg3Yy00OTY4LWEyMTYtMmUzYjE3ZmZjYzUwXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
 

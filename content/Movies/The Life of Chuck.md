@@ -1,20 +1,18 @@
 ---
 type: film
-scoreImdb: '7.7'
+scoreImdb: "7.7"
 length: 111 min
 country: United States
-genre: 'Drama, Fantasy, Sci-Fi'
-year: '2024'
+genre: Drama, Fantasy, Sci-Fi
+year: "2024"
 rating: 4
 date: 2025-08-07T00:00:00.000Z
-cover: '[[the-life-of-chuck.webp]]'
+cover: "[[the-life-of-chuck.webp]]"
 tags:
   - Movie
 badge:
   - ✨حال‌خوب‌کن
-cover_self: 'https://ifard.ir/assets/covers/movies/the-life-of-chuck.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BZDhlMzJhMTgtN2FhZS00OWQ1LTk3Y2ItZGNiNTQ0ZmUzYmIzXkEyXkFqcGc@._V1_SX300.jpg
+cover_source: https://m.media-amazon.com/images/M/MV5BZDhlMzJhMTgtN2FhZS00OWQ1LTk3Y2ItZGNiNTQ0ZmUzYmIzXkEyXkFqcGc@._V1_SX300.jpg
 ---
 
 **رقصی چنین میانه ی میدانم آرزوست**

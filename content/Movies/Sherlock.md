@@ -1,19 +1,17 @@
 ---
 type: series
-scoreImdb: '9.1'
+scoreImdb: "9.1"
 length: 1162 min
-country: 'United Kingdom, United States'
-genre: 'Crime, Drama, Mystery'
+country: United Kingdom, United States
+genre: Crime, Drama, Mystery
 year: 2010–2017
 rating: 5
 date: 2020-03-12T00:00:00.000Z
-cover: '[[sherlock.webp]]'
+cover: "[[sherlock.webp]]"
 tags:
   - Movie
 badge:
-  - "\U0001F300مرموز"
-cover_self: 'https://ifard.ir/assets/covers/movies/sherlock.webp'
-cover_source: >-
-  https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+  - 🌀مرموز
+cover_source: https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
 ---
 
