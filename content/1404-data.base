@@ -1,0 +1,184 @@
+filters:
+  and:
+    - date >= "2025-03-21"
+    - date <= "2026-03-20"
+formulas:
+  starRating: |-
+    if(rating == 5, "★★★★★",
+    if(rating == 4.5, "★★★★⯨",
+    if(rating == 4, "★★★★",
+    if(rating == 3.5, "★★★⯨",
+    if(rating == 3, "★★★",
+    if(rating == 2.5, "★★⯨",
+    if(rating == 2, "★★",
+    if(rating == 1.5, "★⯨",
+    if(rating == 1, "★",
+    ""
+    )))))))))
+views:
+  - type: cards
+    name: 📚 Books
+    filters:
+      and:
+        - file.hasTag("Book")
+    order:
+      - file.name
+      - badge
+      - pages
+      - formula.starRating
+    sort:
+      - property: date
+        direction: DESC
+      - property: rating
+        direction: DESC
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.7
+    imageFit: ""
+  - type: cards
+    name: 🎙️ Podcast
+    filters:
+      and:
+        - file.hasTag("Podcast")
+    order:
+      - file.name
+      - badge
+      - rating
+    sort:
+      - property: date
+        direction: DESC
+      - property: rating
+        direction: DESC
+    image: note.cover
+    cardSize: 180
+    imageAspectRatio: 1
+    imageFit: ""
+  - type: cards
+    name: 🎓 Courses
+    filters:
+      and:
+        - file.hasTag("Course")
+    order:
+      - file.name
+      - rating
+      - length
+    sort:
+      - property: date
+        direction: DESC
+      - property: rating
+        direction: DESC
+    image: note.cover
+    cardSize: 230
+    imageAspectRatio: 1.5
+    imageFit: ""
+  - type: cards
+    name: ✨ Media
+    filters:
+      and:
+        - file.hasTag("Media")
+    order:
+      - file.name
+      - badge
+      - rating
+    sort:
+      - property: date
+        direction: DESC
+      - property: rating
+        direction: DESC
+    image: note.cover
+    cardSize: 230
+    imageAspectRatio: 1.5
+    imageFit: ""
+  - type: cards
+    name: 🎬 Movie
+    filters:
+      and:
+        - file.hasTag("Movie")
+        - file.name != "New Movie"
+        - type.contains("film")
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - badge
+      - formula.starRating
+    sort:
+      - property: date
+        direction: DESC
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.65
+    imageFit: ""
+  - type: cards
+    name: 📺 Series
+    filters:
+      and:
+        - file.hasTag("Movie")
+        - file.name != "New Movie"
+        - type == "series"
+    order:
+      - file.name
+      - badge
+      - formula.starRating
+    sort:
+      - property: date
+        direction: DESC
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.65
+    imageFit: ""
+  - type: cards
+    name: 🎈 Animation
+    filters:
+      and:
+        - file.hasTag("Movie")
+        - file.name != "New Movie"
+        - type == "animation"
+    order:
+      - file.name
+      - badge
+      - formula.starRating
+    sort:
+      - property: date
+        direction: DESC
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.65
+    imageFit: ""
+  - type: cards
+    name: 🎥 Documentaries
+    filters:
+      and:
+        - file.hasTag("Movie")
+        - file.name != "New Movie"
+        - type == "documentaries"
+    order:
+      - file.name
+      - badge
+      - formula.starRating
+    sort:
+      - property: date
+        direction: DESC
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.65
+    imageFit: ""
+  - type: cards
+    name: ⌛ Short
+    filters:
+      and:
+        - file.hasTag("Movie")
+        - file.name != "New Movie"
+        - type == "short"
+    order:
+      - file.name
+      - badge
+      - formula.starRating
+    sort:
+      - property: date
+        direction: DESC
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.65
+    imageFit: ""
