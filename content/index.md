@@ -85,8 +85,8 @@ draft: false
 
 ---
 
-- [[data.base|همه]]
-- [[1402-data.base|1402]]
-- [[1403-data.base|1403]]
-- [[1404-data.base|1404]]
-- [[1405-data.base|1405]]
+- [[all.base]]
+- [[1402.base]]
+- [[1403.base]]
+- [[1404.base]]
+- [[1405.base]]

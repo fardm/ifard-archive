@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: کتابخانه
+  pageTitle: آرشیو
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: fa-IR
-  baseUrl: library.ifard.ir
+  baseUrl: archive.ifard.ir
   ignorePatterns:
     - private
     - templates
@@ -247,7 +247,7 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
-      includeAll: true
+      includeAll: false
       includedProperties:
         - pages
         - length
@@ -255,7 +255,7 @@ plugins:
         - badge
         - rating
       excludedProperties: []
-      hidePropertiesView: true
+      hidePropertiesView: false
       delimiters: ---
       language: yaml
     order: 5

@@ -341,12 +341,17 @@ body:is(
 // غیرفعال کردن لینک
 
 
-body:is(
-    [data-slug="1402-data.base"],
-    [data-slug="1403-data.base"],
-    [data-slug="1404-data.base"],
-    [data-slug="1405-data.base"]
-) .internal-link.bases-card {
+// body:is(
+//     [data-slug="1402.base"],
+//     [data-slug="1403.base"],
+//     [data-slug="1404.base"],
+//     [data-slug="1405.base"]
+// ) .internal-link.bases-card {
+//     pointer-events: none;
+//     cursor: default;
+// }
+
+.internal-link.bases-card {
     pointer-events: none;
     cursor: default;
 }
