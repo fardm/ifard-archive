@@ -94,16 +94,16 @@ div.flex-component:has(.page-title) > div {
         display: inline-block;
         width: 1.8em;
         height: 1.8em;
-        margin-left: 0.3rem;
+        margin-left: 0.4rem;
         vertical-align: middle;
         background-image: url("/static/avatar.webp");
         background-size: cover;
         background-repeat: no-repeat;
-        background-color: var(--secondary);
+        background-color: #e37b3e52;
         border-radius: 5px;
     }
     &:hover::before {
-        background-color: var(--tertiary);
+        filter: brightness(110%);
     }
     }
 }

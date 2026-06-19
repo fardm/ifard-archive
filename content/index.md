@@ -69,7 +69,7 @@ draft: false
 
 | icon | count         | sum         |
 | ---- | ------------- | ----------- |
-| ⌛    | 60 فیلم کوتاه | `10.2 ساعت` |
+| ⌛    | 60 فیلم کوتاه | `10.1 ساعت` |
 <!-- SerializedQuery END -->
 
 <!-- QueryToSerialize: TABLE WITHOUT ID "🎥" as icon, length(rows) + " مستند" as count, "`" + round(sum(rows.length.hours),1) + " ساعت`" as sum FROM #Movie WHERE type = "documentary" AND length !=null GROUP BY "" -->
@@ -85,9 +85,5 @@ draft: false
 
 ---
 
-
-**فهرست کامل:** [[data.base]]
-
-
-**به تفکیک سال:**
-- [[1404-data.base]]
+- [[data.base|همه]]
+- [[1404-data.base|1404]]

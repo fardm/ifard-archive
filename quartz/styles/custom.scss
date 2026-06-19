@@ -353,16 +353,16 @@ body:is(
 
 // minimal scroll-------------------
 
-/* Firefox */
-// * {
-//     scrollbar-width: thin;
-//     scrollbar-color: var(--gray) transparent;
-// }
+// Firefox
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--gray) transparent;
+}
   
-/* Chromium + Safari */
+// Chromium + Safari
 ::-webkit-scrollbar {
-width: 6px;
-height: 6px;
+width: 8px;
+height: 8px;
 }
 
 ::-webkit-scrollbar-track {
