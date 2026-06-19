@@ -12,7 +12,7 @@ tags:
 badge:
   - ☕تلخ
 cover_source: https://m.media-amazon.com/images/M/MV5BYWNjOGFlNmUtYmY2Yy00ZDdiLWE4ZmItMmE0YTQ3MTA3NDlkXkEyXkFqcGc@._V1_SX300.jpg
-type: documentaries
+type: documentary
 ---
 به پیشنهاد احسان عبدی این مستند رو دیدم.
 یه تیکه از مستند رو پخش کرد.

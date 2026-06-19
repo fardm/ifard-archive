@@ -1,5 +1,5 @@
 ---
-type: documentaries
+type: documentary
 scoreImdb: "6.9"
 length: 90 min
 country: United States

@@ -11,7 +11,7 @@ tags:
   - Movie
 badge:
 cover_source: https://m.media-amazon.com/images/M/MV5BZTFlNTgzYTItMmJlMi00NWZiLTkwZTEtYjAxOGNlY2VmODJmXkEyXkFqcGc@._V1_SX300.jpg
-type: documentaries
+type: documentary
 ---
 
 ### در مورد مستند

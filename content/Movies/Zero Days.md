@@ -11,7 +11,7 @@ tags:
   - Movie
 badge:
 cover_source: https://m.media-amazon.com/images/M/MV5BMTUyODE1NTIzOF5BMl5BanBnXkFtZTgwMjA5NjY5ODE@._V1_SX300.jpg
-type: documentaries
+type: documentary
 ---
 مستند خوبی بود.
 برام جالب بود که ویروس رو اینقدر هوشمندانه نوشتند که فقط خرابکاری کنه و معلوم نشه کار کی بوده. یعنی مانیتورها ارقام رو درست نشون بدن تا مهندس ها نفهمن مشکل از کجاست. جالب تر اینکه تلاش کردن افشا نشه. یعنی هدفشون متوقف کردن بوده دنبال رسانه ای کردنش نبودن تا بهش افتخار کنن یا پز بدن.

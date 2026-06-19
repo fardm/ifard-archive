@@ -11,7 +11,7 @@ tags:
   - Movie
 badge:
 cover_source: https://m.media-amazon.com/images/M/MV5BMjU4MzY4ODg0MV5BMl5BanBnXkFtZTcwNTE2MjY5OA@@._V1_SX300.jpg
-type: documentaries
+type: documentary
 ---
 
 ماجرای مهمی بود  اما ریتم مستند خیلی کند بود. امتیاز پایینم به خاطر همین کسل کننده بودنشه. میتونست خیلی بهتر ساخته بشه. یه دوربین گرفتند دستشون و از اول محاکمه تا آخرش رو فیلم گرفتند.

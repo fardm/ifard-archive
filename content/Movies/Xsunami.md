@@ -14,6 +14,6 @@ aliases:
 publisher: سفیر فیلم
 source: https://www.imdb.com/title/tt11519526/
 cover_source: https://m.media-amazon.com/images/M/MV5BZDk1YmUyODMtYmY2Mi00NDBkLTgwZjMtMjI5NmZlNTMxMzIyXkEyXkFqcGc@._V1_.jpg
-type: documentaries
+type: documentary
 ---
 

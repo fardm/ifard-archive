@@ -354,10 +354,10 @@ body:is(
 // minimal scroll-------------------
 
 /* Firefox */
-* {
-    scrollbar-width: thin;
-    scrollbar-color: var(--gray) transparent;
-}
+// * {
+//     scrollbar-width: thin;
+//     scrollbar-color: var(--gray) transparent;
+// }
   
 /* Chromium + Safari */
 ::-webkit-scrollbar {

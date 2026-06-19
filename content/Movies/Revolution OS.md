@@ -11,7 +11,7 @@ tags:
   - Movie
 badge:
 cover_source: https://m.media-amazon.com/images/M/MV5BMTgyNDU0NTIwNV5BMl5BanBnXkFtZTcwNzE4MDQyMQ@@._V1_SX300.jpg
-type: documentaries
+type: documentary
 ---
 
 

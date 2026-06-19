@@ -36,7 +36,7 @@ views:
     imageAspectRatio: 0.7
     imageFit: ""
   - type: cards
-    name: 🎙️ Podcast
+    name: 🎙️ Podcasts
     filters:
       and:
         - file.hasTag("Podcast")
@@ -72,7 +72,7 @@ views:
     imageAspectRatio: 1.5
     imageFit: ""
   - type: cards
-    name: ✨ Media
+    name: ✨ Medias
     filters:
       and:
         - file.hasTag("Media")
@@ -90,7 +90,7 @@ views:
     imageAspectRatio: 1.5
     imageFit: ""
   - type: cards
-    name: 🎬 Movie
+    name: 🎬 Movies
     filters:
       and:
         - file.hasTag("Movie")
@@ -129,7 +129,7 @@ views:
     imageAspectRatio: 0.65
     imageFit: ""
   - type: cards
-    name: 🎈 Animation
+    name: 🎈 Animations
     filters:
       and:
         - file.hasTag("Movie")
@@ -152,7 +152,7 @@ views:
       and:
         - file.hasTag("Movie")
         - file.name != "New Movie"
-        - type == "documentaries"
+        - type == "documentary"
     order:
       - file.name
       - badge
@@ -165,7 +165,7 @@ views:
     imageAspectRatio: 0.65
     imageFit: ""
   - type: cards
-    name: ⌛ Short
+    name: ⌛ Shorts
     filters:
       and:
         - file.hasTag("Movie")

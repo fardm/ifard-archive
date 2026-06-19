@@ -1,5 +1,5 @@
 ---
-type: documentaries
+type: documentary
 scoreImdb: "7.3"
 length: 76 min
 country: Iran

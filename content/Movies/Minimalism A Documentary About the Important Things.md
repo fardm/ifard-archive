@@ -11,7 +11,7 @@ tags:
   - Movie
 badge:
 cover_source: https://m.media-amazon.com/images/M/MV5BZWQ1ZDljNDAtYWI4ZC00NWVkLTgwOTctZmM4MDc5MDJiMjU5XkEyXkFqcGc@._V1_SX300.jpg
-type: documentaries
+type: documentary
 ---
 
 تاکید کلی اش روی مصرف گرایی بود. 
