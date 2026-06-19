@@ -249,7 +249,11 @@ plugins:
     options:
       includeAll: true
       includedProperties:
-        - status
+        - pages
+        - length
+        - date
+        - badge
+        - rating
       excludedProperties: []
       hidePropertiesView: true
       delimiters: ---

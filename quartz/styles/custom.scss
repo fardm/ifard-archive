@@ -331,9 +331,45 @@ body:is(
 //____________________________________________________________________
 
 #quartz-body:has(div.minimal) .bases-page {
-    margin-top: 4rem;
+    margin-top: 3rem;
 }
 
 .bases-card {
     direction: ltr;
+}
+
+// غیرفعال کردن لینک
+
+
+body:is(
+    [data-slug="1404-data.base"],
+    [data-slug="1405-data.base"]
+) .internal-link.bases-card {
+    pointer-events: none;
+    cursor: default;
+}
+
+
+
+// minimal scroll-------------------
+
+/* Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--gray) transparent;
+}
+  
+/* Chromium + Safari */
+::-webkit-scrollbar {
+width: 6px;
+height: 6px;
+}
+
+::-webkit-scrollbar-track {
+background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+background: var(--gray);
+border-radius: 999px;
 }
