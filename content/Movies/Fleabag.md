@@ -1,5 +1,5 @@
 ---
-type: film
+type: series
 scoreImdb: 8.7
 length: 5 hour
 director:
