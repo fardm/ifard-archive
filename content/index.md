@@ -86,7 +86,3 @@ draft: false
 ---
 
 - [[all.base]]
-- [[1402.base]]
-- [[1403.base]]
-- [[1404.base]]
-- [[1405.base]]
