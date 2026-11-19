@@ -2,6 +2,8 @@
   "textFontFamily": "DanaVF",
   "showRibbon": true,
   "enabledCssSnippets": [
-    "callout"
-  ]
+    "callout",
+    "book-covers"
+  ],
+  "accentColor": ""
 }

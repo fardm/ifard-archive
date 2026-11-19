@@ -1,5 +1,7 @@
 [
   "find-unlinked-files",
   "image-converter",
-  "multi-properties"
+  "multi-properties",
+  "dataview-serializer",
+  "dataview"
 ]

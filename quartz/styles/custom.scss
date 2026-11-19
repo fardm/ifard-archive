@@ -2,6 +2,7 @@
 @use "./_card-view.scss";
 @use "./_ui.scss";
 @use "./my-callouts.scss";
+@use "./only-archive.scss";
 
 // ================ 01. THEME VARIABLES ================
 
@@ -309,6 +310,11 @@ body:is(
     margin-top: 3rem;
 }
 
+.bases-card-body {
+    direction: ltr;
+    text-align: right;
+}
+
 // hide meta
 .bases-hide-meta {
  .bases-card-label, .bases-view-meta  {
@@ -343,3 +349,6 @@ body:is(
         display: none;
     }
 }
+
+
+

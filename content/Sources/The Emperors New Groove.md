@@ -6,7 +6,7 @@ country: United States, Japan, France
 genre: Animation, Adventure, Comedy
 year: "2000"
 rating: 5
-date:
+date: 2004-01-01
 cover: "[[the-emperors-new-groove.webp]]"
 tags:
   - Movie

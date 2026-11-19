@@ -23,13 +23,11 @@ views:
       - pages
       - formula.starRating
     sort:
-      - property: date
-        direction: DESC
       - property: rating
         direction: DESC
     image: note.cover
-    cardSize: 200
-    imageAspectRatio: 0.7
+    cardSize: 180
+    imageAspectRatio: 1.5
     imageFit: ""
   - type: cards
     name: 🎙️ Podcasts
@@ -41,31 +39,11 @@ views:
       - badge
       - rating
     sort:
-      - property: date
-        direction: DESC
       - property: rating
         direction: DESC
     image: note.cover
     cardSize: 180
     imageAspectRatio: 1
-    imageFit: ""
-  - type: cards
-    name: 🎓 Courses
-    filters:
-      and:
-        - file.hasTag("Course")
-    order:
-      - file.name
-      - rating
-      - length
-    sort:
-      - property: date
-        direction: DESC
-      - property: rating
-        direction: DESC
-    image: note.cover
-    cardSize: 230
-    imageAspectRatio: 1.5
     imageFit: ""
   - type: cards
     name: ✨ Medias
@@ -83,7 +61,7 @@ views:
         direction: DESC
     image: note.cover
     cardSize: 230
-    imageAspectRatio: 1.5
+    imageAspectRatio: 0.55
     imageFit: ""
   - type: cards
     name: 🎬 Movies
@@ -92,19 +70,16 @@ views:
         - file.hasTag("Movie")
         - file.name != "New Movie"
         - type.contains("film")
-    groupBy:
-      property: type
-      direction: ASC
     order:
       - file.name
       - badge
       - formula.starRating
     sort:
-      - property: date
+      - property: rating
         direction: DESC
     image: note.cover
     cardSize: 200
-    imageAspectRatio: 0.65
+    imageAspectRatio: 1.5
     imageFit: ""
   - type: cards
     name: 📺 Series
@@ -118,11 +93,11 @@ views:
       - badge
       - formula.starRating
     sort:
-      - property: date
+      - property: rating
         direction: DESC
     image: note.cover
     cardSize: 200
-    imageAspectRatio: 0.65
+    imageAspectRatio: 1.55
     imageFit: ""
   - type: cards
     name: 🎈 Animations
@@ -140,7 +115,7 @@ views:
         direction: DESC
     image: note.cover
     cardSize: 200
-    imageAspectRatio: 0.65
+    imageAspectRatio: 1.5
     imageFit: ""
   - type: cards
     name: 🎥 Documentaries
@@ -158,7 +133,7 @@ views:
         direction: DESC
     image: note.cover
     cardSize: 200
-    imageAspectRatio: 0.65
+    imageAspectRatio: 1.5
     imageFit: ""
   - type: cards
     name: ⌛ Shorts
@@ -176,5 +151,23 @@ views:
         direction: DESC
     image: note.cover
     cardSize: 200
-    imageAspectRatio: 0.65
+    imageAspectRatio: 1.5
+    imageFit: ""
+  - type: cards
+    name: 🎭 Theatre
+    filters:
+      and:
+        - file.hasTag("Movie")
+        - file.name != "New Movie"
+        - type.contains("theatre")
+    order:
+      - file.name
+      - badge
+      - formula.starRating
+    sort:
+      - property: rating
+        direction: DESC
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 1.5
     imageFit: ""

@@ -6,7 +6,7 @@ country: United States
 genre: Animation, Adventure, Family
 year: "2002"
 rating: 4
-date:
+date: 2004-01-01
 cover: "[[treasure-planet.webp]]"
 tags:
   - Movie
