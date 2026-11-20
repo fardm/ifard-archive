@@ -13,12 +13,12 @@ draft: false
 
 
 > [!grid4]
-> <!-- QueryToSerialize: TABLE WITHOUT ID "📚" as icon, length(rows) + " جلد کتاب" as count, "`" + sum(rows.pages) + " صفحه`" as sum FROM #Book WHERE file.name !="New Book" GROUP BY "" -->
-> <!-- SerializedQuery: TABLE WITHOUT ID "📚" as icon, length(rows) + " جلد کتاب" as count, "`" + sum(rows.pages) + " صفحه`" as sum FROM #Book WHERE file.name !="New Book" GROUP BY "" -->
+> <!-- QueryToSerialize: TABLE WITHOUT ID "📚" as icon, length(rows) + " کتاب" as count, "`" + sum(rows.pages) + " صفحه`" as sum FROM #Book WHERE file.name !="New Book" GROUP BY "" -->
+> <!-- SerializedQuery: TABLE WITHOUT ID "📚" as icon, length(rows) + " کتاب" as count, "`" + sum(rows.pages) + " صفحه`" as sum FROM #Book WHERE file.name !="New Book" GROUP BY "" -->
 >
-> | icon | count        | sum          |
-> | ---- | ------------ | ------------ |
-> | 📚   | 119 جلد کتاب | `25305 صفحه` |
+> | icon | count    | sum          |
+> | ---- | -------- | ------------ |
+> | 📚   | 120 کتاب | `26200 صفحه` |
 >
 > <!-- SerializedQuery END -->
 > 
@@ -93,7 +93,7 @@ draft: false
 
 <center>
 	<a href="./all.base" class="all-notes-btn">
-		Card View
+		جزئیات
 		  <svg viewBox="0 0 24 24" fill="none">
 		    <path d="M19 12H5M5 12L11 6M5 12L11 18"
 		      stroke="currentColor"

@@ -15,5 +15,6 @@ date: 2026-11-17
 tags:
   - Movie
 badge:
+  - 🧩سرگرم‌کننده
 source: https://www.imdb.com/title/tt0332452/
 ---
