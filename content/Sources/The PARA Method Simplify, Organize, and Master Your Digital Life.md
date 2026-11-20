@@ -10,6 +10,7 @@ tags:
 badge:
   - 🪶خوش‌خوان
 cover_source: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683399809i/134634583.jpg
+language: en
 ---
 
 #   چکیده

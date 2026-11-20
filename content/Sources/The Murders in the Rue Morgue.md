@@ -16,7 +16,8 @@ rating: 4
 genre:
 type: Novel
 status:
-edition: Graded Reader
+publisher: Oxford
+language: en
 ---
 The Murders in the Rue Morgue
 

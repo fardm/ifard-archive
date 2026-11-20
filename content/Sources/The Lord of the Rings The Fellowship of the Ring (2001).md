@@ -5,7 +5,7 @@ length: 178 min
 country: New Zealand, United States, United Kingdom
 genre: Adventure, Drama, Fantasy
 year: "2001"
-rating: 4.5
+rating: 5
 date: 2025-12-16T00:00:00.000Z
 cover: "[[the-lord-of-the-rings-the-fellowship-of-the-ring.webp]]"
 tags:

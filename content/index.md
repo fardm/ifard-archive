@@ -18,23 +18,16 @@ draft: false
 >
 > | icon | count        | sum          |
 > | ---- | ------------ | ------------ |
-> | 📚   | 125 جلد کتاب | `26608 صفحه` |
+> | 📚   | 119 جلد کتاب | `25305 صفحه` |
 >
-> <!-- SerializedQuery END -->
-> <!-- QueryToSerialize: TABLE WITHOUT ID "🎙" as icon, length(rows) + " پادکست" as count, "`" + round(sum(rows.length.hours),1) + " ساعت`" as sum FROM #Podcast WHERE length !=null GROUP BY "" -->
-> <!-- SerializedQuery: TABLE WITHOUT ID "🎙" as icon, length(rows) + " پادکست" as count, "`" + round(sum(rows.length.hours),1) + " ساعت`" as sum FROM #Podcast WHERE length !=null GROUP BY "" -->
-> | icon | count     | sum        |
-> | ---- | --------- | ---------- |
-> | 🎙   | 94 پادکست | `239 ساعت` |
-> 
 > <!-- SerializedQuery END -->
 > 
 > <!-- QueryToSerialize: TABLE WITHOUT ID "🎬" as icon, length(rows) + " فیلم" as count, "`" + round(sum(rows.length.hours),1) + " ساعت`" as sum FROM #Movie WHERE type = "film" AND length != null GROUP BY "" -->
 > <!-- SerializedQuery: TABLE WITHOUT ID "🎬" as icon, length(rows) + " فیلم" as count, "`" + round(sum(rows.length.hours),1) + " ساعت`" as sum FROM #Movie WHERE type = "film" AND length != null GROUP BY "" -->
-> 
-> | icon | count    | sum        |
-> | ---- | -------- | ---------- |
-> | 🎬   | 201 فیلم | `432 ساعت` |
+>
+> | icon | count    | sum          |
+> | ---- | -------- | ------------ |
+> | 🎬   | 206 فیلم | `434.3 ساعت` |
 >
 > <!-- SerializedQuery END -->
 > 
@@ -53,16 +46,17 @@ draft: false
 >
 > | icon | count      | sum         |
 > | ---- | ---------- | ----------- |
-> | 🎈   | 28 انیمیشن | `45.5 ساعت` |
+> | 🎈   | 28 انیمیشن | `45.6 ساعت` |
 >
 > <!-- SerializedQuery END -->
 > 
 > <!-- QueryToSerialize: TABLE WITHOUT ID "⌛" as icon, length(rows) + " فیلم کوتاه" as count, "`" + round(sum(rows.length.hours),1) + " ساعت`" as sum FROM #Movie WHERE type = "short" AND length != null GROUP BY "" -->
 > <!-- SerializedQuery: TABLE WITHOUT ID "⌛" as icon, length(rows) + " فیلم کوتاه" as count, "`" + round(sum(rows.length.hours),1) + " ساعت`" as sum FROM #Movie WHERE type = "short" AND length != null GROUP BY "" -->
-> 
-> | icon | count         | sum         |
-> | ---- | ------------- | ----------- |
-> | ⌛    | 60 فیلم کوتاه | `10.1 ساعت` |
+>
+> | icon | count         | sum        |
+> | ---- | ------------- | ---------- |
+> | ⌛    | 55 فیلم کوتاه | `7.8 ساعت` |
+>
 > <!-- SerializedQuery END -->
 > 
 > <!-- QueryToSerialize: TABLE WITHOUT ID "🎭" as icon, length(rows) + " تئاتر" as count, "`" + round(sum(rows.length.hours),1) + " ساعت`" as sum FROM #Movie WHERE type = "theatre" AND length != null GROUP BY "" -->
@@ -80,6 +74,13 @@ draft: false
 > | icon | count    | sum         |
 > | ---- | -------- | ----------- |
 > | 🎥   | 38 مستند | `56.5 ساعت` |
+> 
+> <!-- SerializedQuery END -->
+> <!-- QueryToSerialize: TABLE WITHOUT ID "🎙" as icon, length(rows) + " پادکست" as count, "`" + round(sum(rows.length.hours),1) + " ساعت`" as sum FROM #Podcast WHERE length !=null GROUP BY "" -->
+> <!-- SerializedQuery: TABLE WITHOUT ID "🎙" as icon, length(rows) + " پادکست" as count, "`" + round(sum(rows.length.hours),1) + " ساعت`" as sum FROM #Podcast WHERE length !=null GROUP BY "" -->
+> | icon | count     | sum        |
+> | ---- | --------- | ---------- |
+> | 🎙   | 94 پادکست | `239 ساعت` |
 > 
 > <!-- SerializedQuery END -->
 

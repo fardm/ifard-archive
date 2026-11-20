@@ -15,7 +15,8 @@ rating: 4
 genre:
 type: Novel
 status:
-edition: Graded Reader
+publisher: Oxford
+language: en
 ---
 
 # words

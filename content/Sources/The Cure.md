@@ -1,5 +1,5 @@
 ---
-type: short
+type: film
 scoreImdb: "7.1"
 length: 24 min
 director: Charles Chaplin

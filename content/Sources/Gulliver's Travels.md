@@ -11,11 +11,12 @@ date: 2026-11-19
 tags:
   - Book
 badge:
-rating:
+rating: 2.5
 genre:
 type:
 status:
-edition: Graded Reader
+publisher: Oxford
+language: en
 ---
 
 # چکیده
@@ -25,3 +26,5 @@ edition: Graded Reader
 # نشانه
 
 # حاشیه
+
+تعلیق  خوبی نداشت. خیلی یکنواخت بود. میتونست روایت هیجان انگیز تری داشته باشه.

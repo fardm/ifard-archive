@@ -15,7 +15,8 @@ rating: 2.5
 genre:
 status:
 type: Novel
-edition: Graded Reader
+publisher: Oxford
+language: en
 ---
 
 

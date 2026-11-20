@@ -10,11 +10,12 @@ date: 2026-10-09
 tags:
   - Book
 badge:
-rating:
+rating: 4
 genre:
 type: Novel
 status:
-edition: Graded Reader
+publisher: Oxford
+language: en
 ---
 
 # چکیده

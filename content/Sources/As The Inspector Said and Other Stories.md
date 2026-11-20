@@ -15,7 +15,8 @@ rating: 1
 genre:
 type:
 status:
-edition: Graded Reader
+publisher: Oxford
+language: en
 ---
 
 # چکیده

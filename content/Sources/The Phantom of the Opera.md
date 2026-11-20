@@ -15,7 +15,8 @@ rating: 4
 genre:
 status:
 type: Novel
-edition: Graded Reader
+publisher: Oxford
+language: en
 ---
 
 # چکیده

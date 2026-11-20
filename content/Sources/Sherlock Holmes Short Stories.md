@@ -16,7 +16,8 @@ rating: 3
 genre:
 type: Novel
 status:
-edition: Graded Reader
+publisher: Oxford
+language: en
 ---
 
 Level 2

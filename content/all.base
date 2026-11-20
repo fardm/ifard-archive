@@ -17,51 +17,22 @@ views:
     filters:
       and:
         - file.hasTag("Book")
+    groupBy:
+      property: rating
+      direction: DESC
     order:
       - file.name
       - badge
       - pages
       - formula.starRating
     sort:
+      - property: language
+        direction: DESC
       - property: rating
         direction: DESC
     image: note.cover
     cardSize: 180
     imageAspectRatio: 1.5
-    imageFit: ""
-  - type: cards
-    name: 🎙️ Podcasts
-    filters:
-      and:
-        - file.hasTag("Podcast")
-    order:
-      - file.name
-      - badge
-      - rating
-    sort:
-      - property: rating
-        direction: DESC
-    image: note.cover
-    cardSize: 180
-    imageAspectRatio: 1
-    imageFit: ""
-  - type: cards
-    name: ✨ Medias
-    filters:
-      and:
-        - file.hasTag("Media")
-    order:
-      - file.name
-      - badge
-      - rating
-    sort:
-      - property: date
-        direction: DESC
-      - property: rating
-        direction: DESC
-    image: note.cover
-    cardSize: 230
-    imageAspectRatio: 0.55
     imageFit: ""
   - type: cards
     name: 🎬 Movies
@@ -147,7 +118,7 @@ views:
       - badge
       - formula.starRating
     sort:
-      - property: date
+      - property: rating
         direction: DESC
     image: note.cover
     cardSize: 200
@@ -170,4 +141,38 @@ views:
     image: note.cover
     cardSize: 200
     imageAspectRatio: 1.5
+    imageFit: ""
+  - type: cards
+    name: 🎙️ Podcasts
+    filters:
+      and:
+        - file.hasTag("Podcast")
+    order:
+      - file.name
+      - badge
+      - formula.starRating
+    sort:
+      - property: rating
+        direction: DESC
+    image: note.cover
+    cardSize: 180
+    imageAspectRatio: 1
+    imageFit: ""
+  - type: cards
+    name: ✨ Medias
+    filters:
+      and:
+        - file.hasTag("Media")
+    order:
+      - file.name
+      - author
+      - formula.starRating
+    sort:
+      - property: date
+        direction: DESC
+      - property: rating
+        direction: DESC
+    image: note.cover
+    cardSize: 230
+    imageAspectRatio: 0.55
     imageFit: ""
