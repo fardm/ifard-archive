@@ -409,8 +409,10 @@
     }
 
     // 3. Filter state (All views + This view)
+    var currentGlobalSig = JSON.stringify(base.filters || null);
+    var savedGlobalSig = localStorage.getItem(storagePrefix + 'global_filters_sig');
     var savedGlobalFilters = localStorage.getItem(storagePrefix + 'global_filters');
-    if (savedGlobalFilters) {
+    if (savedGlobalFilters && savedGlobalSig === currentGlobalSig) {
       try {
         var parsedGlobal = JSON.parse(savedGlobalFilters);
         globalFilterTree = (parsedGlobal && parsedGlobal.type === 'group' && Array.isArray(parsedGlobal.children))
@@ -421,6 +423,10 @@
       }
     } else {
       globalFilterTree = parseInitialSingleFilter(base.filters);
+      if (savedGlobalSig !== currentGlobalSig) {
+        localStorage.removeItem(storagePrefix + 'global_filters');
+        localStorage.setItem(storagePrefix + 'global_filters_sig', currentGlobalSig);
+      }
     }
 
     var savedFilters = localStorage.getItem(storagePrefix + viewKey + '_filters');
@@ -856,6 +862,7 @@
 
   function saveGlobalFilterState() {
     localStorage.setItem(storagePrefix + 'global_filters', JSON.stringify(globalFilterTree));
+    localStorage.setItem(storagePrefix + 'global_filters_sig', JSON.stringify(base.filters || null));
     updateToolbarActiveStates();
   }
 
